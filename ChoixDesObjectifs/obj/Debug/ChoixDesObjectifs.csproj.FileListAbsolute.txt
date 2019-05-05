@@ -1,0 +1,13 @@
+C:\Users\Guillaume\Documents\ENSC Bordeaux INP\Projets\Transi IA AvDuRail\AventuriersDuRail\ChoixDesObjectifs\obj\Debug\ChoixDesObjectifs.csprojAssemblyReference.cache
+C:\Users\Guillaume\Documents\ENSC Bordeaux INP\Projets\Transi IA AvDuRail\AventuriersDuRail\ChoixDesObjectifs\obj\Debug\ChoixDesObjectifs.csproj.CoreCompileInputs.cache
+C:\Users\Guillaume\Documents\ENSC Bordeaux INP\Projets\Transi IA AvDuRail\AventuriersDuRail\ChoixDesObjectifs\bin\Debug\ChoixDesObjectifs.exe.config
+C:\Users\Guillaume\Documents\ENSC Bordeaux INP\Projets\Transi IA AvDuRail\AventuriersDuRail\ChoixDesObjectifs\bin\Debug\ChoixDesObjectifs.exe
+C:\Users\Guillaume\Documents\ENSC Bordeaux INP\Projets\Transi IA AvDuRail\AventuriersDuRail\ChoixDesObjectifs\bin\Debug\ChoixDesObjectifs.pdb
+C:\Users\Guillaume\Documents\ENSC Bordeaux INP\Projets\Transi IA AvDuRail\AventuriersDuRail\ChoixDesObjectifs\obj\Debug\ChoixDesObjectifs.exe
+C:\Users\Guillaume\Documents\ENSC Bordeaux INP\Projets\Transi IA AvDuRail\AventuriersDuRail\ChoixDesObjectifs\obj\Debug\ChoixDesObjectifs.pdb
+C:\xampp\htdocs\TransDi-Aventuriers-Du-Rail\ChoixDesObjectifs\bin\Debug\ChoixDesObjectifs.exe.config
+C:\xampp\htdocs\TransDi-Aventuriers-Du-Rail\ChoixDesObjectifs\bin\Debug\ChoixDesObjectifs.exe
+C:\xampp\htdocs\TransDi-Aventuriers-Du-Rail\ChoixDesObjectifs\bin\Debug\ChoixDesObjectifs.pdb
+C:\xampp\htdocs\TransDi-Aventuriers-Du-Rail\ChoixDesObjectifs\obj\Debug\ChoixDesObjectifs.exe
+C:\xampp\htdocs\TransDi-Aventuriers-Du-Rail\ChoixDesObjectifs\obj\Debug\ChoixDesObjectifs.pdb
+C:\xampp\htdocs\TransDi-Aventuriers-Du-Rail\ChoixDesObjectifs\obj\Debug\ChoixDesObjectifs.csprojResolveAssemblyReference.cache
